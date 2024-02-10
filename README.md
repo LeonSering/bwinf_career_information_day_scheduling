@@ -6,9 +6,9 @@ This project was one part of my submission for the second round of the 26th Germ
 
 The goal is to schedule a career information day at a school:
 
-- 16 talks by parents present their work
+- 16 talks by parents about their work
 
-- 4 time slots.
+- 4 time slots
 
 - students provide a preference list of six talks they would like to attend
 
