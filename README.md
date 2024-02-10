@@ -1,4 +1,4 @@
-# Information day
+# Career Information Day Scheduling
 
 This project was one part of my submission for the second round of the 26th German National Competition in Compute Science (Bundeswettbewerb Informatik) held in 2007 and 2008. It was my first mixed integer program and I had a lot of fun, spending all my holidays on this exercise.
 
