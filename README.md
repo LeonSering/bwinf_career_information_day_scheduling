@@ -10,7 +10,7 @@ The goal is to schedule a career information day at a school:
 
 - 4 time slots
 
-- students provide a preference list of six talks they would like to attend
+- students provide a preference list of 6 talks they would like to attend
 
 - each talk has a minimum and maximum number of participants
 
